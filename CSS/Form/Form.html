@@ -1,0 +1,78 @@
+</DOCTYPE html>
+<html lang="en">
+  
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="./Form.css">
+</head>
+  
+<body>
+     <section>
+         <article>
+          <form action="" method="get">
+            <div>
+                <h1>Registration Form <span style="color: red; font-size: 20px;"></span></h1>
+            </div>
+             
+            <div>
+                <label for="fname">First Name<span style="color: red; font-size: 20px;"></span></label>
+                <input type="text" id="fname" placeholder="Enter First Name" pattern="[A,Z],[a,z], [0,9]" required>
+            </div>
+
+            <div>
+                <label for="lname">Last Name<span style="color: red; font-size: 20px;"></span></label>
+                <input type="text" id="lname" placeholder=" Enter Last Name" pattern="[A,Z],[a,z], [0,9]" required>
+            </div>
+             
+            <div>
+                <label for="mail">Email</label>
+                <input type="email" id="mail" placeholder="Enter email" pattern="[a,z], [0,9], @, .">
+            </div>
+               
+            <div>
+                <span>
+                    <input type="radio" id="male" value="gender">
+                    <label for="male">Male</label>
+                </span>
+
+                <span>
+                    <input type="radio" id="female" value="gender">
+                    <label for="female">Female</label>
+                </span>
+            </div> 
+            
+            <div>
+                <label for="dob">Date of birth<span style="color: red; font-size: 20px;"></span></label>
+                <input type="date" id="dob" placeholder="Enter Date of birth" required>
+            </div>
+            
+            <div>
+                <label for="age">Age: </label>
+            <input type="number" id="age" />
+            </div>
+
+            <div>
+                <label for="phno">Contact<span style="color: red; font-size: 20px;"></span></label>
+                <input type="number" id="phno" placeholder="Enter contact number" pattern="[0,9]" required>
+            </div>
+            <div>
+                <label for="resume">Resume File:</label>
+                <input type="file" id="resume" />
+            </div>
+
+          
+           <div class="login">
+            <button>Submit</button>
+        </div>
+                 
+          </form>
+        </article>
+    </section>
+    
+</body>
+</html>
+           
+
