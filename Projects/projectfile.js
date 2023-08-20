@@ -1,4 +1,5 @@
-alert ("Welcome To The Page")
+alert("Welcome To The Page")
+let my_user = null;
 const red_block = document.getElementById('red_block');
 const green_block = document.getElementById('green_block');
 const blue_block = document.getElementById('blue_block');
@@ -17,6 +18,7 @@ const btn_move_to_blue = document.getElementById('btn_move_to_blue');
 const btn_move_to_yellow = document.getElementById('btn_move_to_yellow');
 const btn_move_to_pink = document.getElementById('btn_move_to_pink');
 const btn_move_to_brown = document.getElementById('btn_move_to_brown');
+
 
 function addUserToProject(){
     if(my_user == null){
@@ -71,8 +73,6 @@ function moveToYellow() {
         yellow_block.append(my_user)
     }
 }
-
-
 function moveTopink() {
     if(my_user != null){
         pink_block.append(my_user)
@@ -82,8 +82,8 @@ function moveTopink() {
 function moveTobrown() {
     if(my_user != null){
         brown_block.append(my_user)
-    }
-}
+    }}
+
 btn_add_user.addEventListener("click", addUserToProject);
 btn_delete_user.addEventListener("click", deleteUserFromProject);
 
