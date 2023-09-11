@@ -1,0 +1,12 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "rest api for quiz App",
+  "main": "app.js",
+  "author": "vishal yadav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  }
+}
