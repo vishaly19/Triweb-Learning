@@ -16,6 +16,7 @@ Welcome to the README for my MERN stack internship. This internship serves as a 
 ## Project Overview
 
 This internship project demonstrates my skills in developing a full-stack web application using the MERN stack.
+* [Projects](./Projects/)
 
 ## Technologies Used
 
@@ -32,7 +33,6 @@ This internship project demonstrates my skills in developing a full-stack web ap
 * [NodeJS](./NodeJS/)
 * [MongoDB](./MongoDB/)
 * [TypeScript](./TypeScript/)
-* [Projects](./Projects/)
 
 - **Other Technologies and Tools**:
   - [List any other tools or libraries you've used, e.g., Redux, Axios, Mongoose]
