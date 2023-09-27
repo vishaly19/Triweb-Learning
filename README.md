@@ -20,7 +20,7 @@ This internship project demonstrates my skills in developing a full-stack web ap
 ## Technologies Used
 
 - **Frontend**:
-  - [React.js]{#React.js}
+  - [React.js](#React.js)
   - HTML5
   - CSS3
   - JavaScript
