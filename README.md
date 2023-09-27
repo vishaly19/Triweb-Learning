@@ -1,8 +1,8 @@
 
-# MERN Stack Internship Project
+# MERN Stack Internship
 
-Welcome to the README for my MERN stack internship project! This project serves as a testament to my proficiency in developing full-stack web applications using the MongoDB, Express.js, React.js, and Node.js (MERN) stack.
-sds
+Welcome to the README for my MERN stack internship. This internship serves as a testament to my proficiency in developing full-stack web applications using the MongoDB, Express.js, React.js, and Node.js (MERN) stack.
+
 ## Table of Contents
 
 
@@ -15,12 +15,12 @@ sds
  
 ## Project Overview
 
-This internship project demonstrates my skills in developing a full-stack web application using the MERN stack. The project's main purpose or functionality is [briefly describe what your project does].
+This internship project demonstrates my skills in developing a full-stack web application using the MERN stack.
 
 ## Technologies Used
 
 - **Frontend**:
-  - React.js
+  - [React.js]{#React.js}
   - HTML5
   - CSS3
   - JavaScript
