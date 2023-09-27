@@ -34,55 +34,8 @@ This internship project demonstrates my skills in developing a full-stack web ap
 * [MongoDB](./MongoDB/)
 * [TypeScript](./TypeScript/)
 
-- **Other Technologies and Tools**:
-  - [List any other tools or libraries you've used, e.g., Redux, Axios, Mongoose]
 
-## Features
 
-- [List some key features or functionalities of your project]
 
-## Getting Started
 
-To run this project locally, follow these steps:
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/mern-internship-project.git
-   ```
-
-2. **Navigate to the project folder**:
-
-   ```bash
-   cd mern-internship-project
-   ```
-
-3. **Install dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server**:
-
-   ```bash
-   npm start
-   ```
-
-   Your project should now be running locally.
-
-## Project Structure
-
-Explain the project's file and folder structure briefly.
-
-```
-project-root/
-  ├── frontend/
-  │   ├── src/
-  │   │   ├── components/
-  │   │   ├── ...
-  │   ├── ...
-  ├── backend/
-  │   ├── ...
-  ├── ...
-```
