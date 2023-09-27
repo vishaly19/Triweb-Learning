@@ -20,15 +20,19 @@ This internship project demonstrates my skills in developing a full-stack web ap
 ## Technologies Used
 
 - **Frontend**:
-  - [React.js](#React.js)
-  - HTML5
-  - CSS3
-  - JavaScript
+ * [HTML](./HTML/)
+* [CSS](./CSS/)
+* [Javascript](./Javascript/)
+* [React](./React/)
 
 - **Backend**:
-  - Node.js
-  - Express.js
-  - MongoDB
+ 
+ * [ES6](./ES6/)
+* [MySQL](./MySQL/)
+* [NodeJS](./NodeJS/)
+* [MongoDB](./MongoDB/)
+* [TypeScript](./TypeScript/)
+* [Projects](./Projects/)
 
 - **Other Technologies and Tools**:
   - [List any other tools or libraries you've used, e.g., Redux, Axios, Mongoose]
