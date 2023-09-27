@@ -9,9 +9,7 @@ Welcome to the README for my MERN stack internship. This internship serves as a 
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Technologies Used](#technologies-used)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-  - [Project Structure](#project-structure)
+ 
  
 ## Project Overview
 
