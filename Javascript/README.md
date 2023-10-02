@@ -1,3 +1,6 @@
-# Triweb-Learning
-Triweb-Learning
-hello
+# Javascript
+  *  JavaScript journey, where Datatypes.js reveal the essence of content, Mathobject.js calculates the magic of numbers, and Operators.js dance in harmony. Navigate README.md for guidance, unravel the art of Textformatting.js, and let Weakmapobject.js guard your secrets. Arrayslice.js, Bitwise.js, Break.js — a symphony of scripts, each contributing to the grand narrative of code. From Callbacks.js whispering in the event loop to Classvsprototype.js defining structures, this JavaScript saga unfolds. Embrace Closure.js, dance with Dates.js, and witness the digital clock ticking in Digitalclock.js. Errorhandling.js catches stumbles, Escapesequence.js breaks free, and Eventloopandthen.js orchestrates asynchronous melodies. ForEach.js, Generators.js, Gettersetter.js — iterators of a digital era. Indexedcollection.js, Keycollectionmap.js — the maps that guide us. Loops.js, Multidimensionalarray.js — the rhythm of repetition. Unveil the secrets of Splice.js, Splitstring.js, and Spreadandrest.js. Numbers.js, Object.js, Parameters.js — the building blocks of logic. Promise.js, Promisechaining.js — promises kept, strings attached. Prototype.js, Recursion.js — the recursive echoes of creation. Replace.js, Turnaryoperator.js — scripts rewriting stories. Unaryoperator.js — a solo act in the coding orchestra. Join this symphony of scripts, where JavaScript is not just a language; it's an art, a journey, and a world waiting to be explored."
+
+
+
+
