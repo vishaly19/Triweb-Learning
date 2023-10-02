@@ -1,3 +1,3 @@
 # HTML
-* [HTML Form](./Form/Form.html) 
+* [HTML Form](./Form/FORM.HTML) 
     Registration form implemented by html forms.
