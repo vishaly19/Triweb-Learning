@@ -11,7 +11,7 @@ Welcome to the README for my MERN stack internship. This internship serves as a 
  
   - [Technologies Used](#technologies-used)
   
-  - [prerequisites](#prerequisites)
+  - [Prerequisites](#Prerequisites)
 
   
   - [Project Overview](#project-overview)
@@ -31,7 +31,7 @@ Welcome to the README for my MERN stack internship. This internship serves as a 
 * [MongoDB](./MongoDB/)
 * [TypeScript](./TypeScript/)
 
- # prerequisites
+ # Prerequisites
 
 
 *  Node.js and npm:  Make sure you have Node.js installed to run the server and npm for package management.
