@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     
-    "Mern Stack Developer",
+    "MERN Stack Developer",
     "Programmer",
   ],
   description:
@@ -12,8 +12,8 @@ export const Bio = {
   resume:
     "https://firebasestorage.googleapis.com/v0/b/imagesforproject-e74fa.appspot.com/o/Vishal%20Y.pdf?alt=media&token=2be015f1-aa66-4061-8d5c-30670074838f",
   linkedin: "https://www.linkedin.com/in/vishal-yadav-448290226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bi6MYRLSfRzCqO5eRVrlbuQ%3D%3D",
-  twitter: "",
-  insta: "",
+  twitter: "https://twitter.com/vishalyada809",
+  insta: "https://instagram.com/vishaltravel4u",
   facebook: "https://www.facebook.com/?ref=tn_tnmn",
 };
 
@@ -143,10 +143,10 @@ export const experiences = [
   {
     id: 4,
     img: "https://firebasestorage.googleapis.com/v0/b/imagesforproject-e74fa.appspot.com/o/triweb.jpg?alt=media&token=c28062d0-0415-4445-b7c2-bbccca8e8c24",
-    role: "Mern Stack Developer Intern",
+    role: "MERN Stack Developer Intern",
     company: "TriwebAPI",
     date: "Aug 2023 - Present",
-    desc: "As an Mern Stack Developer Intern at TriwebAPI from Aug 2023 to Present, I gained valuable hands-on experience in Mern STack development. This internship helped me enhance my skills in Mern Stack development and gave me an opportunity to work in a collaborative team environment.",
+    desc: "As an MERN Stack Developer Intern at TriwebAPI from Aug 2023 to Present, I gained valuable hands-on experience in Mern STack development. This internship helped me enhance my skills in Mern Stack development and gave me an opportunity to work in a collaborative team environment.",
     skills: [
       "Html",
       "Css",
@@ -207,14 +207,14 @@ export const projects = [
     tags: ["React Js", "Node JS"],
     category: "web app",
     github: "https://github.com/vishaly19/Triweb-Learning/commit/361ce134ce8d49e7eeaeedb113683912827683c6",
-    webapp: "",
+    webapp: "https://tic-toc-toe-game-vishal.netlify.app/",
   },
   {
     id: 7,
     title: "Quiz Manager App",
     date: "Sep",
     description:
-      "Quiz manager app using node mongo and javascript and postman",
+      "Crafting a seamless journey of knowledge with the Quiz Manager App backend—where Node.js orchestrates the flow, MongoDB stores the wisdom, and every question becomes a gateway to enlightenment.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/imagesforproject-e74fa.appspot.com/o/quixx.png?alt=media&token=bf9eaab0-2749-4b8c-8d85-2cf413f4cc12",
     tags: ["Node js, Api, Javascript, Html, Yarn"],
@@ -233,7 +233,7 @@ export const projects = [
     tags: ["JavaScript"],
     category: "web app",
     github: "https://github.com/vishaly19/Triweb-Learning/commit/2aef8b081aa0816a1ead9bd7e189d8ed82b0d4a9",
-    webapp: "",
+    webapp: "https://on-off-bulb-vishal.netlify.app/",
   },
 ];
 
